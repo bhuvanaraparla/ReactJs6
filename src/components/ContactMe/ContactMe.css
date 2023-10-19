@@ -1,0 +1,32 @@
+.contact-me-heading {
+  text-align: center;
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #ffcc00;
+}
+
+.social-icons {
+  margin-left: 40%;
+  margin-right: 40%;
+  display: flex;
+  justify-content:space-between;
+  margin-bottom: 20px;
+}
+
+.social-icon {
+  font-size: 36px;
+  color: #fff;
+  margin: 0 10px;
+}
+
+.contact-me-box p {
+  text-align: center;
+  font-size: 18px;
+  color: #fff;
+}
+.social-icon-img {
+  width: 10px; 
+  height: 10px;
+  margin: 0 10px;
+}
+
